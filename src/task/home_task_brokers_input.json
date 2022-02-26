@@ -1,0 +1,14 @@
+[
+  {
+      "broker_id": "broker_1",
+      "platform_id": "platform_1",
+      "broker_name":"broker1",
+      "platform_name":"platform1"
+  },
+  {
+      "broker_id": "broker_2",
+      "platform_id": "platfrom_2",
+      "broker_name":"broker2",
+      "platform_name":"platform2"
+  }
+]
